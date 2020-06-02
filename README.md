@@ -6,4 +6,4 @@ In your terminal after you clone your project down, remember to run either `yarn
 
 ## Run project
 
-You can run the project by running `npm run start`.
+You can run the project by running `npm run start`. Remember to paste in your MongoDB URI in app.js to connect database.
